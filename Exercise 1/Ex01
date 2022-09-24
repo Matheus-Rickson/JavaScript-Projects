@@ -1,0 +1,7 @@
+let clima = prompt('Como está o clima?')
+
+if (clima = 'Chuvoso') {
+    console.log('Melhor levar um guarcachuva amigão!')
+} else {
+    console.log('Tudo tranquilo com o clima hoje, aproveite o dia amigão!')
+}   
